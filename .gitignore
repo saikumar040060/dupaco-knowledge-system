@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv/
+venv/
+results/
+
+# Source crawl corpus is private and never committed.
+snapshots/
+*.zip

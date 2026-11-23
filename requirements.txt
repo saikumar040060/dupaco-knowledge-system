@@ -1,0 +1,5 @@
+# This project runs on the Python 3.11+ standard library only — no third-party
+# packages, no network, no API keys. The file is intentionally dependency-free.
+#
+# pytest is used only by the test suite in tests/, not by the system itself:
+#     pip install pytest

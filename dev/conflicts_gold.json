@@ -1,0 +1,10 @@
+[
+  {"id": "cg-auto-60", "topic_keywords": ["auto", "60-month"], "values": ["5.34%", "5.39%"], "correct_value": "5.39%"},
+  {"id": "cg-auto-72", "topic_keywords": ["auto", "72-month"], "values": ["5.44%", "5.49%"], "correct_value": "5.49%"},
+  {"id": "cg-mortgage-100k", "topic_keywords": ["home loans", "100,000"], "values": ["5.884%", "7.27%"], "correct_value": "7.27%"},
+  {"id": "cg-mortgage-15yr", "topic_keywords": ["home loans", "15-year"], "values": ["5.623%", "6.88%"], "correct_value": "6.88%"},
+  {"id": "cg-checking", "topic_keywords": ["1st rate checking"], "values": ["2.50%", "3.00%"], "correct_value": "2.50%"},
+  {"id": "cg-mm", "topic_keywords": ["money market"], "values": ["0.35%", "3.25%"], "correct_value": "0.35%"},
+  {"id": "cg-branch", "topic_keywords": ["branch"], "values": ["22", "24"], "correct_value": "22"},
+  {"id": "cg-forbes", "topic_keywords": ["forbes"], "values": ["fourth", "fifth"], "correct_value": "fifth"}
+]
